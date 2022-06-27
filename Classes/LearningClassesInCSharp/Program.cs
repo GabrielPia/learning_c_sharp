@@ -25,7 +25,7 @@ while(!stop)
             novaConta.numeroAgencia = 23;
             novaConta.nomeAgencia = "Agencia Central";
             novaConta.saldo = 93.50;
-            Console.WriteLine(novaConta.ToString());
+            Console.WriteLine(novaConta.saldo);
             break;
         case "2":
             Console.WriteLine("Verificando conta: ");
