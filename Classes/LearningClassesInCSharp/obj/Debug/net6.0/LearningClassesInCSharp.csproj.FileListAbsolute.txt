@@ -1,0 +1,15 @@
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\bin\Debug\net6.0\LearningClassesInCSharp.exe
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\bin\Debug\net6.0\LearningClassesInCSharp.deps.json
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\bin\Debug\net6.0\LearningClassesInCSharp.runtimeconfig.json
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\bin\Debug\net6.0\LearningClassesInCSharp.dll
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\bin\Debug\net6.0\LearningClassesInCSharp.pdb
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\LearningClassesInCSharp.csproj.AssemblyReference.cache
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\LearningClassesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\LearningClassesInCSharp.AssemblyInfoInputs.cache
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\LearningClassesInCSharp.AssemblyInfo.cs
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\LearningClassesInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\LearningClassesInCSharp.dll
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\refint\LearningClassesInCSharp.dll
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\LearningClassesInCSharp.pdb
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\LearningClassesInCSharp.genruntimeconfig.cache
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\LearningClassesInCSharp\obj\Debug\net6.0\ref\LearningClassesInCSharp.dll
