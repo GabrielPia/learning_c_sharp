@@ -18,14 +18,16 @@ while(!stop)
     switch(option)
     {
         case "1":
-            Console.WriteLine("Cadastrando nova conta: ");
-            ContaCorrente novaConta = new ContaCorrente();
-            novaConta.titular = "Gabriel Martins Teixeira Piagenrini";
-            novaConta.conta = "10123-X";
-            novaConta.numeroAgencia = 23;
-            novaConta.nomeAgencia = "Agencia Central";
-            novaConta.saldo = 93.50;
-            Console.WriteLine(novaConta.saldo);
+            Console.WriteLine("Cadastrando nova conta: "); 
+            ContaCorrente novaConta = new ContaCorrente(23, "10123-X");
+            Cliente titular = new Cliente();
+            titular.Nome = "Gabriel Martins Teixeira Piagentini";
+            titular.Cpf = "123.456.789.00";
+            titular.Profissao = "Programador C#";
+            novaConta.Titular = titular;
+            novaConta.NomeAgencia = "Agencia Central";
+            novaConta.Saldo = 93.50;
+            
             break;
         case "2":
             Console.WriteLine("Verificando conta: ");

@@ -2,38 +2,51 @@
 {
     public class ContaCorrente
     {
-        public string titular;
-        public string conta;
-        public int numeroAgencia;
-        public string nomeAgencia;
-        public double saldo;
+        public static int TotalContasCriadas { get; set; }
+        private double _saldo;
+        private int _numeroAgencia;
 
+        public Cliente Titular { get; set; }
 
-        public bool sacar(double valor)
+        public string Conta { get; set; }
+
+        public int NumeroAgencia 
         {
-            if (saldo < valor || valor < 0)
+            get { return _numeroAgencia; }
+            set {
+                if (_numeroAgencia <= 0)
+                    return;
+                _numeroAgencia = value;
+            }
+        }
+
+        public string NomeAgencia { get; set; }
+
+        public bool Sacar(double valor)
+        {
+            if (_saldo < valor || valor < 0)
                 return false;
             else
             {
-                saldo -= valor;
+                _saldo -= valor;
                 return true;
             }
         }
 
-        public void depositar(double valor)
+        public void Depositar(double valor)
         {
             if (valor > 0)
-                saldo += valor;
+                _saldo += valor;
         }
 
         public bool Transferir(double valor, ContaCorrente destino)
         {
-            if (saldo < valor || valor < 0)
+            if (_saldo < valor || valor < 0)
                 return false;
             else
             {
-                saldo -= valor;
-                destino.saldo += valor;
+                _saldo -= valor;
+                destino._saldo += valor;
                 return true;
             }
 
@@ -42,11 +55,29 @@
         public override string ToString()
         {
             return @$"
-    Títular - {titular} 
-    Conta - {conta} 
-    Agência - {numeroAgencia} 
-    Nome Agência - {nomeAgencia} 
-    saldo - {saldo} ";
+    Títular - {Titular} 
+    Conta - {Conta} 
+    Agência - {NumeroAgencia} 
+    Nome Agência - {NomeAgencia} 
+    saldo - {Saldo} ";
         }
+
+        public double Saldo {
+            get { return _saldo; }
+            set {
+                if (value < 0)
+                    return;
+                _saldo = value;
+            }
+        }
+
+        public ContaCorrente(int numeroAgencia, string conta)
+        {
+            NumeroAgencia = numeroAgencia;
+            Conta = conta;
+            Saldo = 0;
+            TotalContasCriadas += 1;
+        }
+
     }
 }
