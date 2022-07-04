@@ -27,14 +27,13 @@ while(!stop)
             novaConta.Titular = titular;
             novaConta.NomeAgencia = "Agencia Central";
             novaConta.Saldo = 93.50;
-            
+            Console.WriteLine(novaConta);
             break;
         case "2":
             Console.WriteLine("Verificando conta: ");
-
             break;
         case "3":
-            Console.WriteLine("Obrigado por utilizar: ");
+            Console.WriteLine("Obrigado por utilizar: \nPressione qualquer tecla para finalizar");
             stop = true;
             break;
         default:

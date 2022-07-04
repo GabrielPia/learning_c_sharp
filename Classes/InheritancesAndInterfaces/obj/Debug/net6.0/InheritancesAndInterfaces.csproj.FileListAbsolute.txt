@@ -1,0 +1,15 @@
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\bin\Debug\net6.0\InheritancesAndInterfaces.exe
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\bin\Debug\net6.0\InheritancesAndInterfaces.deps.json
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\bin\Debug\net6.0\InheritancesAndInterfaces.runtimeconfig.json
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\bin\Debug\net6.0\InheritancesAndInterfaces.dll
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\bin\Debug\net6.0\InheritancesAndInterfaces.pdb
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\InheritancesAndInterfaces.csproj.AssemblyReference.cache
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\InheritancesAndInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\InheritancesAndInterfaces.AssemblyInfoInputs.cache
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\InheritancesAndInterfaces.AssemblyInfo.cs
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\InheritancesAndInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\InheritancesAndInterfaces.dll
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\refint\InheritancesAndInterfaces.dll
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\InheritancesAndInterfaces.pdb
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\InheritancesAndInterfaces.genruntimeconfig.cache
+C:\Users\gabriel.piagentini\Documents\Desenvolvimento\Pessoal\learning_c_sharp\Classes\InheritancesAndInterfaces\obj\Debug\net6.0\ref\InheritancesAndInterfaces.dll

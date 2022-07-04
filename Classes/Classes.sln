@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningClassesInCSharp", "LearningClassesInCSharp\LearningClassesInCSharp.csproj", "{6D765128-114A-4881-9E84-877D0DA2664D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningClassesInCSharp", "LearningClassesInCSharp\LearningClassesInCSharp.csproj", "{6D765128-114A-4881-9E84-877D0DA2664D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritancesAndInterfaces", "InheritancesAndInterfaces\InheritancesAndInterfaces.csproj", "{DA2F248A-0F11-469B-BCB5-8857AE445E11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6D765128-114A-4881-9E84-877D0DA2664D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D765128-114A-4881-9E84-877D0DA2664D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D765128-114A-4881-9E84-877D0DA2664D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA2F248A-0F11-469B-BCB5-8857AE445E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2F248A-0F11-469B-BCB5-8857AE445E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2F248A-0F11-469B-BCB5-8857AE445E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2F248A-0F11-469B-BCB5-8857AE445E11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
